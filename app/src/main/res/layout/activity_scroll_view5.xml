@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ScrollView5">
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/piña"
+                android:layout_width="match_parent"
+                android:layout_height="195dp"
+                android:backgroundTint="#00FFFF	"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/foto18" />
+
+            <ImageButton
+                android:id="@+id/platano"
+                android:layout_width="match_parent"
+                android:layout_height="215dp"
+                android:backgroundTint="#00FFFF	"
+                android:scaleType="centerCrop"
+
+                app:srcCompat="@drawable/foto19" />
+
+            <ImageButton
+                android:id="@+id/fresa"
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:backgroundTint="#00FFFF	"
+                android:scaleType="centerCrop"
+
+                app:srcCompat="@drawable/foto20" />
+
+            <ImageButton
+                android:id="@+id/naranja"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="centerCrop"
+                android:backgroundTint="#00FFFF	"
+
+                app:srcCompat="@drawable/foto21" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

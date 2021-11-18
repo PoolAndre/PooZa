@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_calculos.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_grabar.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_iniciar1.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_iniciar2.xml" value="0.1" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_iniciar_sesion1.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_iniciar_sesion2.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_menuprincipal.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_misionvision.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_nosotros.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_operaciones.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_photo.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_recomendaciones.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_registrar_registro1.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_registrar_registro2.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_registro1.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_salud.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view1.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view2.xml" value="0.1" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view3.xml" value="0.1" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view5.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view6.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view8.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_scroll_view81.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_splash1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_web.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/Colegio (Pool y Zareth)/PooZa/app/src/main/res/layout/activity_web1.xml" value="0.1" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_calculos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_grabar.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_iniciar1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_iniciar_sesion1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_iniciar_sesion2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_menuprincipal.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_misionvision.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_nosotros.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_operaciones.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_photo.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_recomendaciones.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_registrar_registro1.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_registrar_registro2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_registro1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_salud.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view1.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view3.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view4.xml" value="0.152" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view5.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view6.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view8.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_scroll_view81.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_splash.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_splash1.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_web.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/PooZa/app/src/main/res/layout/activity_web1.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
